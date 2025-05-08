@@ -1,0 +1,15 @@
+{
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1,
+
+  "faucet": true,
+  "mint": true,
+  "staking": {
+    "enable": true,
+    "amount": [0.1, 0.2]
+  }
+}
